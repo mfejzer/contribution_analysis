@@ -1,0 +1,1 @@
+This allows shared connection settings to be placed in a separate file. This is useful for sharing username/password for several connections in one file so it is possible to omit that from version control.

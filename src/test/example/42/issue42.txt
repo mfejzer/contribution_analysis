@@ -1,0 +1,1 @@
+This is problematic when navigating using the sidebar - you don't see the section heading and sometime some of the text (e.g. http://rstudio.github.io/shiny/tutorial/#scoping)

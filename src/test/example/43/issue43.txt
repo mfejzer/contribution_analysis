@@ -1,0 +1,1 @@
+It would be nice to allow multiple functions to subscribe to a single type of customMessageHandler. Otherwise, users are left to abstract it themselves a la https://github.com/trestletech/ShinyDash/commit/ef0e6d50192a8686341df788e47cae4f604af749

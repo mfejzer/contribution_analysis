@@ -1,0 +1,1 @@
+Two rows in the table for combinatorics - balls and urns used to have both B distinguishable and U indistinguishable.

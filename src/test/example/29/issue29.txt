@@ -1,0 +1,1 @@
+checkboxes don't automatically get assigned shiny-bound-input class and don't seem to have a binding: .data('shiny-input-binding')I haven't looked deeper into the code, but the result is that calling Shiny.unbindAll() still reacts to changes for checkboxes

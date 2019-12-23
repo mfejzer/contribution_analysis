@@ -1,0 +1,1 @@
+`as.character` is used on the label, that shouldn't be necessary (I don't think we do it anywhere else).

@@ -1,0 +1,1 @@
+Not sure, but it seems like having a submitButton() in a conditional panel does not work as one would expect.  Would be best it reactivity functioned as normal unless that panel were displayed.Also: NOT an issue, but since the tutorial requests feedback: renderUI is awesome & necessary.

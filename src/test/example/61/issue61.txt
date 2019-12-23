@@ -1,0 +1,1 @@
+"selected" in selectInput requires the visible text.Wish: Additional optional "selectedID" to select by ID (which is the more common scenario with databases)

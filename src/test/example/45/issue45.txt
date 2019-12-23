@@ -1,0 +1,1 @@
+This would be purely client side - e.g. each input control that opts in to the url hash would add an extra attribute. A js function would look for inputs with matching attribute and add an event handler. Whenever the control changes, the url hash would also be updated.  Finally, when the url is first loaded, a javascript hook would replay the state.

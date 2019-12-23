@@ -1,0 +1,1 @@
+This URL used to store the repo for Shiny but it's not needed anymore. It should be removed some time after Dec 24 or so.

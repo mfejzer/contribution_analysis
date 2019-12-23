@@ -1,0 +1,1 @@
+Hi,Please give me step by step details for web deployment of Shiny app.Regards,Suresh Gorakala

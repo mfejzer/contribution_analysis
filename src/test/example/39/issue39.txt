@@ -1,0 +1,1 @@
+See  https://groups.google.com/d/msg/shiny-discuss/eZ9RTqyf6kE/IVinyDU-pNUJWhen `choices=NULL` (the default), it shouldn't delete existing choices from the select box. When `choices=character(0)`, it should remove them.

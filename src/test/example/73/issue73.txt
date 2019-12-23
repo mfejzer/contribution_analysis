@@ -1,0 +1,1 @@
+Would love the `checkboxGroupInput` to (optionally) have a select all/select none box associated with the group.  

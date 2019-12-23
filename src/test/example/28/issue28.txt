@@ -1,0 +1,1 @@
+e.g```R> x <- reactive({stop("!"); 3})> isolate(x())Error in .func() : !Error in .func() : !```

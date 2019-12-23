@@ -1,0 +1,1 @@
+Currently, clicking on the `prev` or `next` button to advance to the next chapter does not return the page to its top, which is what one would expect. This fix adds a line of javascript to make sure that the page returns to the top.

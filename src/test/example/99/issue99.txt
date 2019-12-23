@@ -1,0 +1,1 @@
+This is a quick implementation of a reactive class that wraps the output of `reactive()` to provide a better default print method, and to allow for testing for reactives.

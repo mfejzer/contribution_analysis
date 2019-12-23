@@ -1,0 +1,1 @@
+For example, see:http://glimmer.rstudio.com/winstontest/dynamic_ui/Source:https://github.com/wch/testapp/tree/master/dynamic_uiThe slider is a dynamic UI element. On its first creation, it sends the value. But if you switch it to a date input, and then back to slider, it keeps the date value (it doesn't send the slider value).

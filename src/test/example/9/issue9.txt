@@ -1,0 +1,1 @@
+This change is important for anybody trying to connect to a database on a non-default port or socket. In my case, I was trying to connect to a MAMP database on my laptop, so I made that the example case.

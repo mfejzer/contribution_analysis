@@ -1,0 +1,1 @@
+Need to give developers a way to specify what values are valid, at least for text boxes.

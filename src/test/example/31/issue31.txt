@@ -1,0 +1,1 @@
+A very basic question, I am quite fresh to R and R shiny. When I tried to run the example by copy-paste the example code of HTML UI, the plot doesn't show on the page. Any idea?![screen shot 2013-07-12 at 00 33 27](https://f.cloud.github.com/assets/4689572/785509/55c099ea-ea82-11e2-968f-d637a962991c.png)

@@ -1,0 +1,1 @@
+It would help a lot for debugging if there were an option to disable try-catch blocks in Shiny. Some of the try statements might be necessary for normal operation, so we'll have to be careful about which ones are disabled by the option.

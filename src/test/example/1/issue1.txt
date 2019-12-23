@@ -1,0 +1,1 @@
+Because final typeset figures are small: slightly enlarge fonts, and use solid (non-dashed) lines in continuous distributions.  Much easier to read now!

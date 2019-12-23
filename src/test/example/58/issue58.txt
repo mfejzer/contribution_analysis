@@ -1,0 +1,1 @@
+I *believe* that once updateValue begins, the old value will never be read again. If the reactive expression generates very large result values, then holding both the old and new values in memory at the same time is wasteful and could cause reactive apps to run out of memory where their straight-line equivalents would not.

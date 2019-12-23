@@ -1,0 +1,1 @@
+I would like to have, say, only the Fridays clickable. So if one of the parameters could be a vector of allowable dates that would be v useful

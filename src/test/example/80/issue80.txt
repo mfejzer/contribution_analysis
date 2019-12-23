@@ -1,0 +1,1 @@
+Given a Shiny directory you should be able to pass a list of inputs and get back a list of output values, for automated testing purposes.

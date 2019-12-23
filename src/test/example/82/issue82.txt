@@ -1,0 +1,1 @@
+After looking at the Twitter Bootstrap controls you are developing from/with, there are several I would probably use (e.g., accordian, tooltip)...one thing that is missing (as far as I can tell) is a method to input a vector of variable length. This is something I need for several input items to gsDesign...any method or workarounds would be welcome.

@@ -1,0 +1,1 @@
+See [this comment](https://github.com/rstudio/shiny/pull/139#issuecomment-16028104) about the issue.

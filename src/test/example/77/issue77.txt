@@ -1,0 +1,1 @@
+It would be useful to have a scrollbar in the sidebar. Right now, when there are many options, you may have to scroll down to set an option, then scroll back up to see the result.

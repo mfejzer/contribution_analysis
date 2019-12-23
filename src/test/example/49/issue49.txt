@@ -1,0 +1,1 @@
+* `reactiveFileMonitor` - some way to reactively read a file (i.e. re-read when the file changes on disk)* `reactiveTimer` needs to attach to the session somehow so that it can turn itself off when the session exits. (maybe optionally so you can also have global timers?)

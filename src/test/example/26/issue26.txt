@@ -1,0 +1,1 @@
+For example, this causes strange behavior, according to  https://groups.google.com/d/msg/shiny-discuss/wVvOfIjYygU/DtUuemjsvPwJ```updateCheckboxInput(session, "checkboxControlName", value=logical(0))```

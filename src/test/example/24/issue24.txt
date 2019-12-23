@@ -1,0 +1,1 @@
+At least all the remote run functions `runUrl`, `runGithub`, `runGist` should all be documented in the same file.  All run functions should contain `#' @family run shiny app` so that they're automatically cross-referenced.

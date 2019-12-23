@@ -1,0 +1,1 @@
+Right now it takes quite a long time to load the initial page + static resources, especially over slow connections. I was hoping that somebody could add a feature where shiny could be configured to use gzip when the client indicates Accept-Encoding: gzip.Thanks!Charles

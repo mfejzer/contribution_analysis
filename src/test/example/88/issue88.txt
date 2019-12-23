@@ -1,0 +1,1 @@
+Do I need to use Shiny Server for my shiny apps if I already have my own server?Also, with Shiny Server, what will the URL of the shiny app look like?Thanks for any help!

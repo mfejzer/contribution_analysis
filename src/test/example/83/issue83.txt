@@ -1,0 +1,1 @@
+- Previous and next going to top of page- Source code should be a bit more narrow (or we should take less room for the sidebar)

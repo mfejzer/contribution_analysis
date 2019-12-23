@@ -1,0 +1,1 @@
+Please support Internationalization.Ex. Can not input Japanese Character.Japanese Characters displayed as garbage char.

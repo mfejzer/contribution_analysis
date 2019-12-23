@@ -1,0 +1,1 @@
+Brought in the existing handlers for date, matrix, and numeric. Allow users to add/remove handlers via the new addInputHandler and removeInputHandler functions. The addInputHandler function accepts a callback which wil be called with the input value, shinysession object, and element name.

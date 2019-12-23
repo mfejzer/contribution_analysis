@@ -1,0 +1,1 @@
+Hi -example2 and cars/miles-per-gallon fail on some platforms with e.g. "object 'mtcars' not found"works OK with explicit "data(mtcars)"Problem platform = the "Raspbian wheezy" http://www.raspbian.org/ (2012-09-18) on this hardwarehttp://www.element14.com/community/groups/raspberry-piApart from that minor gotcha: impressive stuff, thanks!Cheers, Adam

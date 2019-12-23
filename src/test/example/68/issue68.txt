@@ -1,0 +1,1 @@
+Often there is a need to select a datetime range or a single value, so such sliders would be very usable.

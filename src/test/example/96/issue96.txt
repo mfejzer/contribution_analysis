@@ -1,0 +1,1 @@
+A few minor enhancements to the documentation.
